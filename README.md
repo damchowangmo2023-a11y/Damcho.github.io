@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
-    <title>Dance & Hip Hop Culture</title>
+    <title> Guru Rinpochoe/Padmasambhava </title>
     <style>
         body {
             font-family: Arial, Sans-Serif;
@@ -45,25 +45,27 @@
             font-size: 14px;
             margin-top: 40px;
         }
-        nav {
+         nav {
             background-color: black;
             overflow: hidden;
-            max-width: 900px;
-            margin:20px;
-            border-radius: 8px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
         }
         nav a {
-            float: left;
-            display: block;
             color: white;
+            padding: 20px 25px;
             text-align: center;
-            padding: 20px 14px;
             text-decoration: none;
-            font-weight: bold;
+            float: left;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
         }
         nav a:hover {
-            background-color:white;
-            color: black;
+            background-color: pink;
+            color: white;
+        }
+
         }
         img {
             max-width: 100%;
@@ -79,10 +81,11 @@
 <body>
 
 <nav>
-    <a href="#">Home</a>
-    <a href="#">Dance Styles</a>
-    <a href="#">Famous Dancers</a>
-    <a href="#">About</a>
+    <a href="#">Introduction and Historical Context</a>
+    <a href="#">The Early Life and Manifestation</a>
+    <a href="#">The Journey to Tibet and the Founding of Samye</a>
+    <a href="#">The Core Teachings and Spiritual Legacy</a>
+     <a href="#"></a>
 </nav>
 
 <header>
