@@ -9,18 +9,18 @@
         body {
             margin: 0;
             font-family: 'Roboto', sans-serif;
-            background: #f2f5f9;
+            background: pink;
             color: #333;
         }
 
         /* NAVBAR */
         nav {
-            background: black;
+            background: #ffe6ee;
             padding: 15px 30px;
             display: flex;
             justify-content: space-between;
             align-items: center;
-            color: pink;
+            color: #1a0008 ;
             position: sticky;
             top: 0;
             z-index: 10;
@@ -37,7 +37,7 @@
         }
 
         nav ul li a {
-            color: pink;
+            color:#1a0008 ;
             text-decoration: none;
             font-weight: 500;
         }
