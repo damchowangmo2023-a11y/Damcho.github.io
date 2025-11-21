@@ -6,79 +6,45 @@
     <title>About Me | Personal Website</title>
 
     <style>
-    body {
-    margin: 0;
-    font-family: 'Roboto', sans-serif; 
-    background: #ffc0cb;
-    color: #333;
-}
+        body {
+            margin: 0;
+            font-family: 'Roboto', sans-serif;
+            background: #f2f5f9;
+            color: #333;
+        }
 
+        /* NAVBAR */
+        nav {
+            background: pink;
+            padding: 15px 30px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            color: black;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
 
-nav {
-    background: linear-gradient(90deg, #3a6cf4, #6c8cf4); /* gradient */
-    padding: 15px 30px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    color: white;
-    position: sticky;
-    top: 0;
-    z-index: 10;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* subtle shadow */
-    border-radius: 0 0 10px 10px; /* rounded bottom corners */
-    transition: background 0.3s ease;
-}
+        nav h1 {
+            margin: 0;
+        }
 
-/* Navbar logo/title */
-nav h1 {
-    margin: 0;
-    font-size: 1.8rem;
-    cursor: pointer;
-    transition: transform 0.3s;
-}
+        nav ul {
+            list-style: none;
+            display: flex;
+            gap: 20px;
+        }
 
-nav h1:hover {
-    transform: scale(1.05); /* slight zoom on hover */
-}
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+        }
 
-/* Navbar menu */
-nav ul {
-    list-style: none;
-    display: flex;
-    gap: 25px;
-    margin: 0;
-    padding: 0;
-}
-
-/* Navbar links */
-nav ul li a {
-    color: white;
-    text-decoration: none;
-    font-weight: 500;
-    position: relative;
-    transition: color 0.3s ease;
-}
-
-/* Hover effect: change color and animated underline */
-nav ul li a:hover {
-    color: #ffdd57; /* golden color on hover */
-}
-
-nav ul li a::after {
-    content: '';
-    display: block;
-    height: 2px;
-    width: 0;
-    background: #ffdd57;
-    transition: width 0.3s;
-    position: absolute;
-    bottom: -4px; /* small gap under text */
-    left: 0;
-}
-
-nav ul li a:hover::after {
-    width: 100%;
-}
+        nav ul li a:hover {
+            text-decoration: underline;
+        }
 
         /* GENERAL SECTIONS */
         section {
