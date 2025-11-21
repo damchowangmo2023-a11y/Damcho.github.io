@@ -15,12 +15,12 @@
 
         /* NAVBAR */
         nav {
-            background: pink;
+            background: black;
             padding: 15px 30px;
             display: flex;
             justify-content: space-between;
             align-items: center;
-            color: black;
+            color: pink;
             position: sticky;
             top: 0;
             z-index: 10;
@@ -37,7 +37,7 @@
         }
 
         nav ul li a {
-            color: white;
+            color: pink;
             text-decoration: none;
             font-weight: 500;
         }
