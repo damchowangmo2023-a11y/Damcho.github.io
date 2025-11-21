@@ -51,19 +51,21 @@
             max-width: 1000px;
             margin: 40px auto;
             background: white;
-            padding: 30px;
+            padding: 40px 30px;
             border-radius: 10px;
-            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
         }
 
         h2 {
             color: #3a6cf4;
-            font-size: 28px;
+            font-size: 32px;
+            margin-bottom: 15px;
         }
 
         p {
             line-height: 1.8;
             margin-bottom: 15px;
+            font-size: 16px;
         }
 
         /* IMAGE STYLING */
@@ -103,6 +105,23 @@
             background: #f9f9f9;
         }
 
+        /* SKILLS / HOBBIES */
+        .list-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .list-item {
+            background: #e6edff;
+            color: #333;
+            padding: 15px 20px;
+            border-radius: 10px;
+            font-weight: 500;
+        }
+
+        /* FOOTER */
         footer {
             margin-top: 40px;
             background: #3a6cf4;
@@ -134,7 +153,11 @@
             <li><a href="#childhood">Childhood</a></li>
             <li><a href="#career">Career</a></li>
             <li><a href="#biodata">Biodata</a></li>
+            <li><a href="#skills">Skills & Hobbies</a></li>
+            <li><a href="#achievements">Achievements</a></li>
+            <li><a href="#gallery">Gallery</a></li>
             <li><a href="#values">Values</a></li>
+            <li><a href="#contact">Contact</a></li>
         </ul>
     </nav>
 
@@ -142,98 +165,131 @@
     <section id="about">
         <h2>Who I Am</h2>
         <p>
-            Welcome to my personal page! I am someone who believes in learning endlessly, growing 
-            intentionally, and living with purpose. My journey has been shaped by curiosity, creativity, 
-            and the desire to create meaningful impact in everything I do.
+            Hi! I’m someone passionate about creativity, learning, and making a meaningful impact. 
+            I enjoy exploring new ideas, connecting with people, and sharing knowledge. 
+        </p>
+        <p>
+            My journey so far has been a blend of curiosity, challenges, and continuous growth. 
+            I like to approach life with intention and creativity, and I value experiences over things.
         </p>
 
         <div class="image-container">
             <img src="https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e" alt="Portrait">
             <img src="https://images.unsplash.com/photo-1517841905240-472988babdf9" alt="Lifestyle">
+            <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e" alt="Thinking">
         </div>
     </section>
 
     <!-- CHILDHOOD -->
     <section id="childhood">
-        <h2>My Childhood Story</h2>
+        <h2>Childhood Memories</h2>
         <p>
-            I grew up with a mind full of imagination—always asking “why,” “how,” and “what if.”  
-            Whether it was taking apart toys to see how they worked or creating little inventions out of 
-            paper, tape, and sheer determination, my childhood was defined by exploration.
+            My childhood was full of curiosity and exploration. I spent countless hours imagining new worlds, 
+            building small inventions, and experimenting with creative projects. I loved books, colors, and 
+            drawing anything that inspired me.
         </p>
         <p>
-            I loved stories, colors, notebooks, and anything that let me create my own world. My early years shaped the core of who I am today:  
-            someone who builds, imagines, and expresses.
+            I was surrounded by a supportive environment that encouraged learning, and my early years were 
+            crucial in shaping my personality and interests. Those small moments—playful experiments, school 
+            activities, and simple family moments—built the foundation for the person I am today.
         </p>
 
         <div class="image-container">
             <img src="https://images.unsplash.com/photo-1503457574464-0ec2a0396a6c" alt="Childhood Memories">
             <img src="https://images.unsplash.com/photo-1525648199074-cee30ba79a56" alt="Child Playing">
             <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" alt="Childhood Creativity">
+            <img src="https://images.unsplash.com/photo-1504198458649-3128b932f49b" alt="Imagination">
         </div>
     </section>
 
     <!-- CAREER -->
     <section id="career">
-        <h2>Professional & Career Focus</h2>
+        <h2>Career & Professional Journey</h2>
         <p>
-            Today, my work revolves around creativity, problem-solving, and helping others access 
-            knowledge. I focus on building meaningful ideas, projects, and solutions that make life 
-            easier, smarter, and more inspired.
+            Today, I work in areas that allow me to combine creativity with problem-solving. My professional 
+            journey started with small projects, growing into meaningful work that impacts others positively.
+        </p>
+        <p>
+            I am passionate about web development, design, and innovative thinking. Every day is an opportunity 
+            to learn and improve, and I aim to contribute through my skills and knowledge.
         </p>
 
         <div class="image-container">
             <img src="https://images.unsplash.com/photo-1484417894907-623942c8ee29" alt="Work Desk">
             <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" alt="Career Work">
+            <img src="https://images.unsplash.com/photo-1551836022-d5d88e9218df" alt="Professional Skills">
         </div>
     </section>
 
     <!-- BIODATA -->
     <section id="biodata">
-        <h2>My Biodata</h2>
+        <h2>Biodata</h2>
         <table>
-            <tr>
-                <th>Full Name</th>
-                <td>Your Name</td>
-            </tr>
-            <tr>
-                <th>Date of Birth</th>
-                <td>January 1, 2000</td>
-            </tr>
-            <tr>
-                <th>Age</th>
-                <td>25</td>
-            </tr>
-            <tr>
-                <th>Nationality</th>
-                <td>Your Country</td>
-            </tr>
-            <tr>
-                <th>Education</th>
-                <td>Example: B.Sc. in Computer Science</td>
-            </tr>
-            <tr>
-                <th>Languages</th>
-                <td>English, Spanish, Hindi (example)</td>
-            </tr>
-            <tr>
-                <th>Hobbies</th>
-                <td>Reading, Coding, Traveling, Photography</td>
-            </tr>
-            <tr>
-                <th>Skills</th>
-                <td>Web Development, Graphic Design, Writing</td>
-            </tr>
+            <tr><th>Full Name</th><td>Your Name</td></tr>
+            <tr><th>Date of Birth</th><td>January 1, 2000</td></tr>
+            <tr><th>Age</th><td>25</td></tr>
+            <tr><th>Nationality</th><td>Your Country</td></tr>
+            <tr><th>Education</th><td>B.Sc. in Computer Science</td></tr>
+            <tr><th>Languages</th><td>English, Spanish, Hindi</td></tr>
+            <tr><th>Hobbies</th><td>Reading, Coding, Traveling, Photography</td></tr>
+            <tr><th>Skills</th><td>Web Development, Graphic Design, Writing, Problem Solving</td></tr>
+            <tr><th>Email</th><td>yourname@example.com</td></tr>
+            <tr><th>Phone</th><td>+123 456 7890</td></tr>
         </table>
+    </section>
+
+    <!-- SKILLS & HOBBIES -->
+    <section id="skills">
+        <h2>Skills & Hobbies</h2>
+        <p>Here are some of my core skills and hobbies that define my personal and professional life:</p>
+        <div class="list-container">
+            <div class="list-item">Web Development</div>
+            <div class="list-item">Graphic Design</div>
+            <div class="list-item">Creative Writing</div>
+            <div class="list-item">Photography</div>
+            <div class="list-item">Traveling</div>
+            <div class="list-item">Reading</div>
+            <div class="list-item">Problem Solving</div>
+        </div>
+    </section>
+
+    <!-- ACHIEVEMENTS -->
+    <section id="achievements">
+        <h2>Achievements</h2>
+        <p>
+            Over the years, I have worked on several projects that have helped me grow both professionally 
+            and personally. Some notable achievements include:
+        </p>
+        <ul>
+            <li>Completed a major web development project for a startup.</li>
+            <li>Designed a creative portfolio showcased online.</li>
+            <li>Won a school-level innovation award in childhood.</li>
+            <li>Contributed to community learning projects and workshops.</li>
+        </ul>
+    </section>
+
+    <!-- GALLERY -->
+    <section id="gallery">
+        <h2>Gallery</h2>
+        <div class="image-container">
+            <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e" alt="Inspiration">
+            <img src="https://images.unsplash.com/photo-1485988412941-77a35537dae4" alt="Workplace">
+            <img src="https://images.unsplash.com/photo-1515378791036-0648a3ef77b2" alt="Travel">
+            <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" alt="Coding">
+            <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" alt="Creativity">
+        </div>
     </section>
 
     <!-- VALUES -->
     <section id="values">
         <h2>Personal Identity & Values</h2>
         <p>
-            At the heart of who I am are values that guide every choice I make: authenticity, empathy, 
-            growth, and creativity. I believe in doing things with intention, being kind even when no one 
-            is watching, and never stopping the pursuit of self-improvement.
+            I strongly believe in authenticity, empathy, creativity, and constant growth. These values guide 
+            every choice I make and help me maintain balance and purpose in life.
+        </p>
+        <p>
+            Living intentionally and learning continuously are my key principles. I strive to inspire others 
+            by example and create meaningful work that reflects my personal philosophy.
         </p>
 
         <div class="image-container">
@@ -241,6 +297,20 @@
         </div>
     </section>
 
+    <!-- CONTACT -->
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>If you want to get in touch, feel free to reach out via email or phone:</p>
+        <ul>
+            <li>Email: yourname@example.com</li>
+            <li>Phone: +123 456 7890</li>
+            <li>LinkedIn: <a href="#" target="_blank">linkedin.com/in/yourprofile</a></li>
+            <li>Portfolio: <a href="#" target="_blank">yourportfolio.com</a></li>
+        </ul>
+        <p>I would love to collaborate, share ideas, or simply connect!</p>
+    </section>
+
+    <!-- FOOTER -->
     <footer>
         © 2025 Your Name — All Rights Reserved
     </footer>
