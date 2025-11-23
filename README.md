@@ -153,7 +153,7 @@
             <li><a href="#childhood">Childhood</a></li>
             <li><a href="#career">Career</a></li>
             <li><a href="#biodata">Biodata</a></li>
-            <li><a href="#skills">Skills & Hobbies</a></li>
+            <li><a href="#skills">Hobbies</a></li>
             <li><a href="#achievements">Achievements</a></li>
             <li><a href="#gallery">Gallery</a></li>
             <li><a href="#values">Values</a></li>
@@ -206,12 +206,13 @@
     <section id="career">
         <h2>Career & Professional Journey</h2>
         <p>
-            Today, I work in areas that allow me to combine creativity with problem-solving. My professional 
-            journey started with small projects, growing into meaningful work that impacts others positively.
-        </p>
+             My current career is being a student, and I take pride in learning, growing, and exploring new skills every day.
+        As a learner, I enjoy discovering new subjects, challenging myself, and developing knowledge that will help me
+        build a bright future.
+       
         <p>
-            I am passionate about web development, design, and innovative thinking. Every day is an opportunity 
-            to learn and improve, and I aim to contribute through my skills and knowledge.
+            I am passionate about improving myself academically as well as personally. Whether it’s working on school
+        projects, participating in activities, or learning new skills, my student journey continues to shape who I am.
         </p>
 
         <div class="image-container">
@@ -225,26 +226,25 @@
     <section id="biodata">
         <h2>Biodata</h2>
         <table>
-            <tr><th>Full Name</th><td>Your Name</td></tr>
-            <tr><th>Date of Birth</th><td>January 1, 2000</td></tr>
-            <tr><th>Age</th><td>25</td></tr>
-            <tr><th>Nationality</th><td>Your Country</td></tr>
-            <tr><th>Education</th><td>B.Sc. in Computer Science</td></tr>
-            <tr><th>Languages</th><td>English, Spanish, Hindi</td></tr>
-            <tr><th>Hobbies</th><td>Reading, Coding, Traveling, Photography</td></tr>
-            <tr><th>Skills</th><td>Web Development, Graphic Design, Writing, Problem Solving</td></tr>
-            <tr><th>Email</th><td>yourname@example.com</td></tr>
-            <tr><th>Phone</th><td>+123 456 7890</td></tr>
+            <tr><th>Full Name</th><td>Damchoe Wangmo</td></tr>
+            <tr><th>Date of Birth</th><td>March 1, 2010</td></tr>
+            <tr><th>Age</th><td>15</td></tr>
+            <tr><th>Nationality</th><td>Bhutan</td></tr>
+            <tr><th>Education</th><td>The Royal Academy</td></tr>
+            <tr><th>Languages</th><td>English, Dzongkha, Hindi, French</td></tr>
+            <tr><th>Hobbies</th><td>Reading, dancing,listening to music, Traveling, Photography</td></tr>
+            <tr><th>Email</th><td>damcho.wangmo2023@academy.bt</td></tr>
+            <tr><th>Phone</th><td>+975 77265130</td></tr>
         </table>
     </section>
 
-    <!-- SKILLS & HOBBIES -->
-    <section id="skills">
-        <h2>Skills & Hobbies</h2>
-        <p>Here are some of my core skills and hobbies that define my personal and professional life:</p>
+    <!--  HOBBIES -->
+    <section id="Hobbies">
+        <h2>Hobbies</h2>
+        <p>Here are some of my core  hobbies that define my personal  life:</p>
         <div class="list-container">
-            <div class="list-item">Web Development</div>
-            <div class="list-item">Graphic Design</div>
+            <div class="list-item">Dancing </div>
+            <div class="list-item">sports</div>
             <div class="list-item">Creative Writing</div>
             <div class="list-item">Photography</div>
             <div class="list-item">Traveling</div>
@@ -302,17 +302,15 @@
         <h2>Contact Me</h2>
         <p>If you want to get in touch, feel free to reach out via email or phone:</p>
         <ul>
-            <li>Email: yourname@example.com</li>
-            <li>Phone: +123 456 7890</li>
-            <li>LinkedIn: <a href="#" target="_blank">linkedin.com/in/yourprofile</a></li>
-            <li>Portfolio: <a href="#" target="_blank">yourportfolio.com</a></li>
+            <li>Email: damcho.wangmo2023@academy.bt</li>
+
         </ul>
         <p>I would love to collaborate, share ideas, or simply connect!</p>
     </section>
 
     <!-- FOOTER -->
     <footer>
-        © 2025 Your Name — All Rights Reserved
+        © 2025 damchoe wangmo — All Rights Reserved
     </footer>
 
 </body>
