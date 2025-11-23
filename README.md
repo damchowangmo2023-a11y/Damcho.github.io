@@ -154,7 +154,6 @@
             <li><a href="#career">Career</a></li>
             <li><a href="#biodata">Biodata</a></li>
             <li><a href="#skills">Hobbies</a></li>
-            <li><a href="#achievements">Achievements</a></li>
             <li><a href="#gallery">Gallery</a></li>
             <li><a href="#values">Values</a></li>
             <li><a href="#contact">Contact</a></li>
@@ -251,21 +250,7 @@
             <div class="list-item">Reading</div>
             <div class="list-item">Problem Solving</div>
         </div>
-    </section>
 
-    <!-- ACHIEVEMENTS -->
-    <section id="achievements">
-        <h2>Achievements</h2>
-        <p>
-            Over the years, I have worked on several projects that have helped me grow both professionally 
-            and personally. Some notable achievements include:
-        </p>
-        <ul>
-            <li>Completed a major web development project for a startup.</li>
-            <li>Designed a creative portfolio showcased online.</li>
-            <li>Won a school-level innovation award in childhood.</li>
-            <li>Contributed to community learning projects and workshops.</li>
-        </ul>
     </section>
 
     <!-- GALLERY -->
