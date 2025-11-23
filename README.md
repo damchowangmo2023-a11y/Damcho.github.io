@@ -173,9 +173,9 @@
         </p>
 
         <div class="image-container">
-            <img src="https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e" alt="Portrait">
-            <img src="https://images.unsplash.com/photo-1517841905240-472988babdf9" alt="Lifestyle">
-            <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e" alt="Thinking">
+            <img src="https://drive.google.com/file/d/1IsFcqt-YqFKNoZ6lidrTKJG7C1wDwRsB/view">
+            <img src="https://drive.google.com/drive/folders/1sEVN726VqSnnbzJXxLczqa3wpOHFJ7MF">
+            <img src="https://photos.google.com/share/AF1QipNjzjyuHPl01DOCHypTPWUWmz8h2oN55qzMFlgb8msvdLrcbzz7m8DVs_CkgTHlfQ/photo/AF1QipNesAtLJmJ_kJ-1KUFNszdUWKR40RsTXicEEbQQ?key=R0Y4TjRvMkNGbkN1MmhuaEthRE1UTVdELXJUWElB">
         </div>
     </section>
 
@@ -269,14 +269,16 @@
     <section id="values">
         <h2>Personal Identity & Values</h2>
         <p>
-            I strongly believe in authenticity, empathy, creativity, and constant growth. These values guide 
-            every choice I make and help me maintain balance and purpose in life.
+            My personality is shaped by qualities that guide how I live and interact with others. 
+        I believe in being kind, honest, and respectful in everything I do. I enjoy connecting 
+        with people and creating a positive environment wherever I go
         </p>
-        <p>
-            Living intentionally and learning continuously are my key principles. I strive to inspire others 
-            by example and create meaningful work that reflects my personal philosophy.
+             I value hard work and self-improvement. I always try to stay confident, responsible, 
+        and open-minded so I can learn from new experiences. I also believe in expressing myself 
+        creatively and staying true to who I am.
+        
         </p>
-
+        
         <div class="image-container">
             <img src="https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05" alt="Nature Values">
         </div>
