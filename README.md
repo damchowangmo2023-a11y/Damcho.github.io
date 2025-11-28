@@ -147,7 +147,7 @@
 
     <!-- NAVIGATION BAR -->
     <nav>
-        <h1>Your Name</h1>
+        <h1>Damchoe Wangmo</h1>
         <ul>
             <li><a href="#home">Home</a></li>
             <li><a href="#biodata">Biodata</a></li>
@@ -202,11 +202,11 @@
         </p>
 
         <div class="image-container">
-            <img src="https://images.unsplash.com/photo-1503457574464-0ec2a0396a6c" alt="Trip">
-            <img src="https://images.unsplash.com/photo-1525648199074-cee30ba79a56" alt="Dances">
-            <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" 
+            <img src="https://chat.google.com/u/0/api/get_attachment_url?url_type=FIFE_URL&content_type=image%2Fjpeg&attachment_token=AOo0EEX%2FbkNNJaoiTT9sO4bka8BoY1nZdKavoOvw0jAW8U8aknUrPZswephcpfRbA7PBCjUehaQ2iPXO6x7WBS93BI4ZB9waYrEK%2BoSZzk7QF9%2BPq2m7%2FXJ5pf7JCfAW4y%2BT9rRk7plh6%2FK4g%2FDvqbAOHbnLPdoYkLlHER2b%2BL3krpKwD8BPgvOPsiG%2Fm433qCEsN6%2F3hXuI35bSsuBd%2F3RGvSXyl%2F01fla%2Fyhgh6ICb0xrAKY8mA8hYhskQYF26nUJcFyrZNNEN8s0vyes4vEd6E7YZYVsa9O%2F8VSB0v01%2ByG8%2FSAkDLwCGvUExkDx9SzLX1uXWNh9L8wEHxSy06SaXy9mmPnkVYtQ9vS6qMCZZqpe6tNaklbeKNj7PcIiEK0OycEyiQY7WVJLH66D86rKBDBPh69rkeITEd%2FfRnXM26PiDbe2orMSXTa7nXxYagef1tsi4LIsLusDSvxjTg81gkO1rbhyOZR2Wf39OW1wu14ACMJQV42sM6v1jUpk9a4kJ11ROGCzRiZ3NiSHi8lUZ5YoWNFxX%2FLDWajUIPI8wqrtjgEMt0Cr5Ic2gXJ8Vx7LmeqFVrhqPZddLAKA%2BWYInMdErvKNI0WYKvX%2BQ1xZUjvk%3D&allow_caching=true&sz=s330-c" alt="Trip">
+            <img src="https://chat.google.com/u/0/api/get_attachment_url?url_type=FIFE_URL&content_type=image%2Fjpeg&attachment_token=AOo0EEXS7jx1PBQI8k1h6%2BT8S%2BJ8FqvIiH9wAk%2BjWV0Kao7UfRVJWhqXaf1cVI%2FV4rPL9d57G1j%2BT8my%2Fm8lQexSvRCLvXO1DQERHxjgpzOHvUHvPPQoGTd2kwW6QXffgDhz6%2F1DJP4Y2MatGdBLo3K0%2FNjyOmhS1otrf%2Fi7Rl6PrHuml5xrR83LRNgukGIGqF3cBQPrDYTOcgzU1vFqR8e%2F77mS8tzCVHs5JHZ26z72wTvMhMNqi%2BXpSOY8p%2FWvUkR2RF6fN2hKiS9GWU8Fls7ZAn9c7MX5NJ2RdrVGASz1p6zmmJXdnyoa3khefPNXvZGPxONYcd9dQ0j5CzXos5KQhsis1QzGPSiQHD6ecnWBWtR0OkDCvtwjjMemP6Sfd9o8aGG7aPs0RhQd1MVIoS6vivPFkkOTC3jp76L%2BMiBA0oISPOq08dJ4fXz47MgP9Dm373IfgpPuF%2BOwWdxVA4DI8vuJZZh6XEvePk9Ui5frJ9hc7F%2FL2tattwDkpDs8vy1K4vUelEsDSs97YaItBW22b0mi5ZCefPAyuDXIeVpFO72eVUsvPk6h9PHdmj14IGQ3PxPFm8EnI3SSVLxDQP0WfxNggzuM8v3ohzxVjASuC5Q%3D&allow_caching=true&sz=s330-c" alt="Trip">
+            <img src="https://images.unsplash.com/photo-1525648199074-cee30ba79a56" alt="Trip">
 alt="As a grade">
-            <img src="https://images.unsplash.com/photo-1504198458649-3128b932f49b" alt="Imagination">
+            <img src="https://chat.google.com/u/0/api/get_attachment_url?url_type=FIFE_URL&content_type=image%2Fjpeg&attachment_token=AOo0EEXD3SdHlRh81ElF5NnG4cTi0Qh%2FmRFmD5Px7CnE6f07l6BSgcv0yslsN0YL0vSFlILkRTRrgU1y1gRiVHy7JPrOumoMBM7msCC5nt1F6OvYXsDEghcJPJzuZ0DGSc%2Bu%2BOmVsr%2BfWzi%2Bd%2BJgoBlk1iTexrnImoRO5N%2BoNN0dYkQ7DxZNJqPmuog4SkV9FtV7VNToQwHclhXbKuNPtzrf4fj6f42kHrb9BadVL6Xl3y%2FbHWDuagnIOBJfb3A%2FamfxOiZDGt8G%2B11TIXGYi%2FvY1T%2Bz6kX9LlSjjvc0NFWaAN6WCoPJL9dGdX9mA187Geg8HECx4OnaP389dezAY66TRk3urnK0ot0QwtH6K5H3y2BT2TsdkI9eLgkQSM%2B%2FZ0Txh8UcoChQM2X3nH0XcSfCX3rJS%2FmJWWKWyDLY5ir6ELc6527hwgxwu%2Fp%2FFJCAliNhoTX32EyL3LeU6os725jgT6l43PCMdoa8c9Vfvufr7rXJvPUXX%2BGXjPxuzwx1%2B6isBSrf8liNjRFA7LPFuKifrmVHGo45usR99OmMMxin79aGf3mhqVayzr0ox2bWc%2B6lUXK1K7KnjioZcejsoCVZgHER%2F61ug41gld4altUG8jIJvKlhivTZ%2FBAUrAM9QfQTcwZtJThcbKq%2F%2FTs%3D&allow_caching=true&sz=w512" alt="Trip">
         </div>
     </section>
 
