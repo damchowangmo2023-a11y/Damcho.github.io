@@ -15,38 +15,68 @@
 
         /* NAVBAR */
         nav {
-            background: #ffe6ee;
-            padding: 15px 30px;
+            background: rgba(255, 230, 238, 0.55);
+            backdrop-filter: blur(14px);
+            -webkit-backdrop-filter: blur(14px);
+            padding: 18px 40px;
             display: flex;
             justify-content: space-between;
             align-items: center;
-            color: #1a0008 ;
+            color: #4a0033;
             position: sticky;
             top: 0;
-            z-index: 10;
+            z-index: 1000;
+            border-bottom: 1.5px solid rgba(255, 192, 203, 0.35);
+            box-shadow: 0 4px 18px rgba(0, 0, 0, 0.1);
         }
 
         nav h1 {
             margin: 0;
+            font-size: 26px;
+            font-weight: 700;
+            letter-spacing: 1px;
+            color: #4a0033;
+            transition: 0.3s ease-in-out;
+            cursor: pointer;
+        }
+
+        nav h1:hover {
+            color: #ff5fa2;
+            transform: scale(1.05);
         }
 
         nav ul {
             list-style: none;
             display: flex;
-            gap: 20px;
+            gap: 25px;
+            margin: 0;
+            padding: 0;
         }
 
         nav ul li a {
-            color:#1a0008 ;
+            color: #4a0033;
             text-decoration: none;
             font-weight: 500;
+            padding: 8px 14px;
+            font-size: 16px;
+            border-radius: 8px;
+            transition: 0.3s ease;
         }
 
         nav ul li a:hover {
-            text-decoration: underline;
+            background: #ffd3e6;
+            color: #8a004f;
+            box-shadow: 0 4px 10px rgba(255, 182, 203, 0.5);
+            transform: translateY(-2px);
         }
 
-        /* GENERAL SECTIONS */
+        nav ul li a.active {
+            background: #ff99c8;
+            color: white;
+            box-shadow: 0 3px 8px rgba(255, 153, 200, 0.6);
+        }
+
+        /* GENERAL SECTION DESIGN */
         section {
             max-width: 1000px;
             margin: 40px auto;
@@ -68,7 +98,6 @@
             font-size: 16px;
         }
 
-        /* IMAGE STYLING */
         .image-container {
             display: flex;
             gap: 20px;
@@ -82,7 +111,6 @@
             box-shadow: 0 0 12px rgba(0,0,0,0.15);
         }
 
-        /* BIODATA TABLE */
         table {
             width: 100%;
             border-collapse: collapse;
@@ -105,7 +133,6 @@
             background: #f9f9f9;
         }
 
-        /* SKILLS / HOBBIES */
         .list-container {
             display: flex;
             flex-wrap: wrap;
@@ -121,7 +148,6 @@
             font-weight: 500;
         }
 
-        /* FOOTER */
         footer {
             margin-top: 40px;
             background: #3a6cf4;
@@ -130,12 +156,10 @@
             padding: 20px;
         }
 
-        /* RESPONSIVE */
         @media(max-width: 768px){
             .image-container img {
                 width: 100%;
             }
-
             nav ul {
                 flex-direction: column;
                 gap: 10px;
@@ -147,16 +171,17 @@
 
     <!-- NAVIGATION BAR -->
     <nav>
-        <h1>Damchoe Wangmo</h1>
-        <ul>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#biodata">Biodata</a></li>
-            <li><a href="#skills">Hobbies</a></li>
-            <li><a href="#school life">School Life </a></li>
-            <li><a href="#gallery">Gallery</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
+      <ul>
+        <li><a href="#home" class="active">Home</a></li>
+        <li><a href="#biodata">Biodata</a></li>
+        <li><a href="#memories">Memories</a></li>
+        <li><a href="#hobbies">Hobbies</a></li>
+        <li><a href="#gallery">Gallery</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
     </nav>
+
+  
 
     <!-- Home-->
     <section id="home">
@@ -184,7 +209,7 @@
     </section>
 
     <!-- School Life-->
-    <section id="school life">
+    <section id="memories">
         <h2> Memories</h2>
         <p>
             I have created so many unforgettable memories at my new school. When I first arrived, everything felt strange and new, and I used to cry almost every day. But my friends were always there to comfort me. They made sure I never felt alone we would sing, dance, and talk for hours in our rooms. And of course, we would gossip and laugh about the funniest little things. Their support helped me adjust and made the school feel like a second home.
@@ -227,7 +252,7 @@
     </section>
 
     <!--  HOBBIES -->
-    <section id="Hobbies">
+    <section id="hobbies">
         <h2>Hobbies</h2>
         <p>Here are some of my core  hobbies that define my personal  life:</p>
         <div class="list-container">
