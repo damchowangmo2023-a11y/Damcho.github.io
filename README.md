@@ -149,27 +149,32 @@
     <nav>
         <h1>Your Name</h1>
         <ul>
-            <li><a href="#about">About Me</a></li>
-            <li><a href="#childhood">Childhood</a></li>
-            <li><a href="#career">Career</a></li>
+            <li><a href="#home">Home</a></li>
             <li><a href="#biodata">Biodata</a></li>
             <li><a href="#skills">Hobbies</a></li>
+            <li><a href="#school life">School Life </a></li>
             <li><a href="#gallery">Gallery</a></li>
-            <li><a href="#values">Values</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
     </nav>
 
-    <!-- ABOUT ME -->
-    <section id="about">
+    <!-- Home-->
+    <section id="home">
         <h2>Who I Am</h2>
         <p>
-            Hi! I’m someone passionate about creativity, learning, and making a meaningful impact. 
-            I enjoy exploring new ideas, connecting with people, and sharing knowledge. 
+            Hello everyone! My name is Damchoe Wangmo, and I am currently a Grade 9 student at The Royal Academy. Before joining this school, I studied at Thangrong Primary School in Mongar Dzongkhag, where I built many wonderful memories and learned important values that still guide me today.
+                    
+       </p>
+        <p>
+            I’m someone who enjoys staying active and trying new things. I love playing sports such as basketball, football, and volleyball in fact, I enjoy almost all kinds of sports because they help me stay healthy, energetic, and connected with my friends. Sports teach me teamwork, discipline, and confidence, which I try to carry into my daily life.
         </p>
         <p>
-            My journey so far has been a blend of curiosity, challenges, and continuous growth. 
-            I like to approach life with intention and creativity, and I value experiences over things.
+            Besides sports, I also have a deep passion for dancing and sketching. These two hobbies are very close to my heart because they allow me to express myself freely. Whenever I feel stressed, sad, or unmotivated, dancing and drawing help lift my mood and remind me to stay positive. They give me a sense of peace, creativity, and joy, and they always inspire me to keep going, no matter the challenge.
+
+        </p>
+         <p>
+            Overall, I am someone who loves to learn, explore new activities, and grow as a person. I believe that staying positive, being active, and expressing myself creatively helps me become a better version of myself every day.
+
         </p>
 
         <div class="image-container">
@@ -179,48 +184,34 @@
         </div>
     </section>
 
-    <!-- CHILDHOOD -->
-    <section id="childhood">
-        <h2>Childhood Memories</h2>
+    <!-- School Life-->
+    <section id="school life">
+        <h2> Memories</h2>
         <p>
-            My childhood was full of curiosity and exploration. I spent countless hours imagining new worlds, 
-            building small inventions, and experimenting with creative projects. I loved books, colors, and 
-            drawing anything that inspired me.
+            I have created so many unforgettable memories at my new school. When I first arrived, everything felt strange and new, and I used to cry almost every day. But my friends were always there to comfort me. They made sure I never felt alone we would sing, dance, and talk for hours in our rooms. And of course, we would gossip and laugh about the funniest little things. Their support helped me adjust and made the school feel like a second home.
         </p>
         <p>
-            I was surrounded by a supportive environment that encouraged learning, and my early years were 
-            crucial in shaping my personality and interests. Those small moments—playful experiments, school 
-            activities, and simple family moments—built the foundation for the person I am today.
+           Our batch of 2028 has already been on several amazing trips together. One of the most memorable ones was our visit to Tiger’s Nest (Taktsang). It was our third trip, and the experience of hiking together, helping each other, and reaching the top felt incredibly special. Before that, our first trip was to Sangchokhor and our second to Dhopji Dzong. Each trip brought us closer and filled our hearts with fun, laughter, and memories that we will cherish forever.
+        </p>
+         <p>
+           We also created countless funny and interesting moments during school events. Whenever we had to prepare dance performances, the boys and girls would always argue over the steps it was chaotic but in the funniest way. Even simple moments like sharing snacks, teasing each other, or sitting together during breaks made our days brighter. We were friendly, supportive, and always there for one another.
+
+        </p>
+        <p>
+           These memories,big and small, are truly beautiful to me. They remind me of how far I’ve come, the friendships I’ve built, and the joy I’ve found in this new chapter of my life.
+
         </p>
 
         <div class="image-container">
-            <img src="https://images.unsplash.com/photo-1503457574464-0ec2a0396a6c" alt="Childhood Memories">
-            <img src="https://images.unsplash.com/photo-1525648199074-cee30ba79a56" alt="Child Playing">
-            <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" alt="Childhood Creativity">
+            <img src="https://images.unsplash.com/photo-1503457574464-0ec2a0396a6c" alt="Trip">
+            <img src="https://images.unsplash.com/photo-1525648199074-cee30ba79a56" alt="Dances">
+            <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" 
+alt="As a grade">
             <img src="https://images.unsplash.com/photo-1504198458649-3128b932f49b" alt="Imagination">
         </div>
     </section>
 
-    <!-- CAREER -->
-    <section id="career">
-        <h2>Career & Professional Journey</h2>
-        <p>
-             My current career is being a student, and I take pride in learning, growing, and exploring new skills every day.
-        As a learner, I enjoy discovering new subjects, challenging myself, and developing knowledge that will help me
-        build a bright future.
-       
-        <p>
-            I am passionate about improving myself academically as well as personally. Whether it’s working on school
-        projects, participating in activities, or learning new skills, my student journey continues to shape who I am.
-        </p>
-
-        <div class="image-container">
-            <img src="https://images.unsplash.com/photo-1484417894907-623942c8ee29" alt="Work Desk">
-            <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" alt="Career Work">
-            <img src="https://images.unsplash.com/photo-1551836022-d5d88e9218df" alt="Professional Skills">
-        </div>
-    </section>
-
+   
     <!-- BIODATA -->
     <section id="biodata">
         <h2>Biodata</h2>
@@ -244,11 +235,9 @@
         <div class="list-container">
             <div class="list-item">Dancing </div>
             <div class="list-item">sports</div>
-            <div class="list-item">Creative Writing</div>
             <div class="list-item">Photography</div>
             <div class="list-item">Traveling</div>
             <div class="list-item">Reading</div>
-            <div class="list-item">Problem Solving</div>
         </div>
 
     </section>
@@ -257,33 +246,21 @@
     <section id="gallery">
         <h2>Gallery</h2>
         <div class="image-container">
-            <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e" alt="Inspiration">
-            <img src="https://images.unsplash.com/photo-1485988412941-77a35537dae4" alt="Workplace">
+            <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e" alt="school">
+            <img src="https://images.unsplash.com/photo-1485988412941-77a35537dae4" alt="hobbies">
             <img src="https://images.unsplash.com/photo-1515378791036-0648a3ef77b2" alt="Travel">
-            <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" alt="Coding">
-            <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" alt="Creativity">
+            <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" alt="dancing">
+            <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" 
+alt="sports">
+            <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" 
+alt="Mentor">
+            <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" 
+alt=”Co-mentee">
+            <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" 
         </div>
     </section>
 
-    <!-- VALUES -->
-    <section id="values">
-        <h2>Personal Identity & Values</h2>
-        <p>
-            My personality is shaped by qualities that guide how I live and interact with others. 
-        I believe in being kind, honest, and respectful in everything I do. I enjoy connecting 
-        with people and creating a positive environment wherever I go
-        </p>
-             I value hard work and self-improvement. I always try to stay confident, responsible, 
-        and open-minded so I can learn from new experiences. I also believe in expressing myself 
-        creatively and staying true to who I am.
-        
-        </p>
-        
-        <div class="image-container">
-            <img src="https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05" alt="Nature Values">
-        </div>
-    </section>
-
+ 
     <!-- CONTACT -->
     <section id="contact">
         <h2>Contact Me</h2>
@@ -302,3 +279,41 @@
 
 </body>
 </html>
+
+nav {
+    background: #ffe6ee;
+    padding: 15px 30px;
+    display: flex;
+    flex-direction: row;      /* ensures row layout */
+    justify-content: space-between;
+    align-items: center;
+    color: #1a0008;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+nav h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;      /* makes the links appear in one horizontal line */
+    align-items: center;
+    gap: 20px;
+    margin: 0;                /* removes spacing that could break the row */
+    padding: 0;
+}
+
+nav ul li a {
+    color: #1a0008;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
