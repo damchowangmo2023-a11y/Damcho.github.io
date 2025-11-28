@@ -153,6 +153,7 @@
             <li><a href="#biodata">Biodata</a></li>
             <li><a href="#skills">Hobbies</a></li>
             <li><a href="#school life">School Life </a></li>
+            <li><a href="#nature retreat">Nature Retreat</a></li>
             <li><a href="#gallery">Gallery</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
@@ -272,4 +273,5 @@
 
 </body>
 </html>
+
 
