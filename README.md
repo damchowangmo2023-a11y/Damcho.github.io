@@ -251,12 +251,7 @@ alt="As a grade">
             <img src="https://images.unsplash.com/photo-1515378791036-0648a3ef77b2" alt="Travel">
             <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" alt="dancing">
             <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" 
-alt="sports">
-            <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" 
-alt="Mentor">
-            <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" 
-alt=”Co-mentee">
-            <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" 
+
         </div>
     </section>
 
@@ -279,41 +274,4 @@ alt=”Co-mentee">
 
 </body>
 </html>
-
-nav {
-    background: #ffe6ee;
-    padding: 15px 30px;
-    display: flex;
-    flex-direction: row;      /* ensures row layout */
-    justify-content: space-between;
-    align-items: center;
-    color: #1a0008;
-    position: sticky;
-    top: 0;
-    z-index: 10;
-}
-
-nav h1 {
-    margin: 0;
-}
-
-nav ul {
-    list-style: none;
-    display: flex;
-    flex-direction: row;      /* makes the links appear in one horizontal line */
-    align-items: center;
-    gap: 20px;
-    margin: 0;                /* removes spacing that could break the row */
-    padding: 0;
-}
-
-nav ul li a {
-    color: #1a0008;
-    text-decoration: none;
-    font-weight: 500;
-}
-
-nav ul li a:hover {
-    text-decoration: underline;
-}
 
