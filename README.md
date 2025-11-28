@@ -147,7 +147,7 @@
 
     <!-- NAVIGATION BAR -->
     <nav>
-        <h1>Your Name</h1>
+        <h1>Damchoe Wangmo</h1>
         <ul>
             <li><a href="#home">Home</a></li>
             <li><a href="#biodata">Biodata</a></li>
